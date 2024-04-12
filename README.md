@@ -19,5 +19,7 @@
 
 ![snap_createpost](https://github.com/akanshakaduskar/Blog-Website/assets/156501496/abddfe3a-6eab-4cdb-bde2-cccc7e291ee9)
 
+![Snap_viewpost](https://github.com/akanshakaduskar/Blog-Website/assets/156501496/fe596bcb-aa1b-4be4-90bb-9a8f3592f37e)
+
 ![snap_databasemd](https://github.com/akanshakaduskar/Blog-Website/assets/156501496/c4a6c7f5-350c-48e9-a2c2-ad22241600ad)
 
